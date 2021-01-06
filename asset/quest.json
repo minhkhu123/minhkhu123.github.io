@@ -1,0 +1,98 @@
+[
+  {
+    "1": "Đây là con gì?",
+    "img1": "images/meo.jpg",
+    "2": "Đây là quả gì?",
+    "img2": "images/tao.jpg",
+    "3": "Đây là hãng xe gì?",
+    "img3": "images/kia.jpg",
+    "4": "Đây là cờ nước nào?",
+    "img4": "images/nhat.jpg",
+    "5": "Đây là máy bay gì?",
+    "img5": "images/tructhang.jpg",
+    "6": "Đây là rau gì?",
+    "img6": "images/raumuong.jpg",
+    "7": "Tên của cầu thủ trong ảnh?",
+    "img7": "images/cr7.jpg",
+    "8": "Dưới ảnh là loài cá nào?",
+    "img8": "images/camap.jpg",
+    "9": "Mũ này là mũ gì?",
+    "img9": "images/mubaohiem.jpg",
+    "10": "Đồ vật sau đây là vật gì?",
+    "img10": "images/quat.jpg"
+  },
+  {
+  "1": {
+      "A": "Con mèo",
+      "B": "Con chó",
+      "C": "Con gà",
+      "D": "Con bò"
+  },
+  "2": {
+      "A": "Quả lê",
+      "B": "Quả táo",
+      "C": "Quả dưa",
+      "D": "Quả na"
+  },
+    "3": {
+      "A": "BMW",
+      "B": "Mercedes",
+      "C": "Toyota",
+      "D": "KIA"
+    },
+    "4": {
+      "A": "Việt Nam",
+      "B": "Mỹ",
+      "C": "Nhật",
+      "D": "Nga"
+    },
+    "5": {
+      "A": "Máy bay trực thăng",
+      "B": "Máy bay phản lực",
+      "C": "Máy bay chở khách",
+      "D": "Máy bay đồ chơi"
+    },
+    "6": {
+      "A": "Rau bắp cải",
+      "B": "Rau muống",
+      "C": "Rau đay",
+      "D": "Rau ngót"
+    },
+    "7": {
+      "A": "Pele",
+      "B": "Lionel Messi",
+      "C": "Cristiano Ronaldo",
+      "D": "Diego Maradona"
+    },
+    "8": {
+      "A": "Cá đuối",
+      "B": "Cá heo",
+      "C": "Cá voi",
+      "D": "Cá mập"
+    },
+    "9": {
+      "A": "Mũ lưỡi trai",
+      "B": "Mũ bảo hiểm",
+      "C": "Mũ cối",
+      "D": "Mũ len"
+    },
+    "10": {
+      "A": "Tủ lạnh",
+      "B": "Tivi",
+      "C": "Máy hút bụi",
+      "D": "Quạt"
+    }
+  },
+  {
+    "1": "Con mèo",
+    "2": "Quả táo",
+    "3": "KIA",
+    "4": "Nhật",
+    "5": "Máy bay trực thăng",
+    "6": "Rau muống",
+    "7": "Cristiano Ronaldo",
+    "8": "Cá mập",
+    "9": "Mũ bảo hiểm",
+    "10": "Quạt"
+  }
+]
